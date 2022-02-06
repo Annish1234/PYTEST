@@ -2,7 +2,7 @@ import pytest
 
 def test4():
     word ="selenium"
-    assert word.upper() =="SELENIUM"  "if this appears pull works"
+    assert word.upper() =="SELENIUM"  #"if this appears pull works"
     
 @pytest.mark.home
 def  test5():
