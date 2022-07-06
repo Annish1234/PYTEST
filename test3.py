@@ -13,4 +13,4 @@ def test6():
 
 @pytest.mark.home
 def test_login():
-    assert "admin"=="admin"
+    assert "ADMIN"=="ADMIN"
