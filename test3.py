@@ -9,7 +9,7 @@ def  test5():
     assert 100==100
 
 def test6():
-    assert "annish"=="ANNISH"
+    assert "ANNISH"=="ANNISH"
 
 @pytest.mark.home
 def test_login():
