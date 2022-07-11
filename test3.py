@@ -6,7 +6,7 @@ def test4():
     
 @pytest.mark.home
 def  test5():
-    assert 100==100
+    assert 10==10
 
 def test6():
     assert "ANNISH"=="ANNISH"
